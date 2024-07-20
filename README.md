@@ -1,6 +1,6 @@
-# Diagnostics Template...
+# KiCad Template
 
-[Docs live in /docs...](/docs/) 
+High-level KiCad template
 
 ## Tools
 
